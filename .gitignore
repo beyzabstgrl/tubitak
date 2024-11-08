@@ -1,0 +1,13 @@
+# Sanal ortam klasörü
+venv/
+
+# Python derlenmiş dosyaları
+__pycache__/
+*.pyc
+
+# VS Code ayarları
+.vscode/
+
+# Diğer gereksiz dosyalar
+*.env
+*.DS_Store
